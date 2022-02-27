@@ -1,4 +1,4 @@
-# IoT-Based-Greenhouse-Design
+# IoT-Based-Greenhouse-Design <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sadeepdilshan69?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/sadeep654?style=social">  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sadeep654/IoT-Based-Greenhouse-Design?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/sadeep654/IoT-Based-Greenhouse-Design?style=social">
 This project was done as an assignment for the Wireless Data Networks Module offered by the Curtin university of Australia. this project includes design and implementation of a Greenhouse with wireless connectivity feature associated with IoT principals. 
 
 <img width="1440" alt="Screenshot 2021-11-28 at 10 18 35" src="https://user-images.githubusercontent.com/76505825/143729978-a37c27da-fadb-46b1-b9dc-a97252651ba1.png">
