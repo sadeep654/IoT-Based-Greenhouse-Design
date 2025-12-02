@@ -138,7 +138,7 @@ See the `LICENSE` file for details.
 
 If you use this work, please cite:
 ```bash
-Perera, H.A.K.D., Kasthuriarachchi, S.D. (2021). IoT Smart Greenhouse Monitoring System. Available at: https://github.com/your-repo-link (Accessed: date-you-accessed).
+Perera, H.A.K.D., Kasthuriarachchi, S.D. (2021). IoT Smart Greenhouse Monitoring System. Available at: https://github.com/sadeep654/IoT-Based-Greenhouse-Design (Accessed: date-you-accessed).
 ```
 
 ---
