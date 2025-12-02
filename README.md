@@ -8,26 +8,31 @@
 ## 🔹 Overview  
 
 A complete IoT-based greenhouse automation system built using **Cisco Packet Tracer**. This project simulates a real smart-agriculture environment with sensors, actuators, IoT servers, and a remote monitoring interface. The system automatically maintains ideal plant-growth conditions through environmental sensing, automation logic, and user-controlled IoT devices.
+<p align="center">
+  <img src="img/demo.gif" alt="water" width="1000px">
+</p>
+ 
+>Full system description referenced from project documentation.
 
 ---
 
-## 📌 Key Features
+## 🔹 Key Features
 
-### 🌡️ Environment Monitoring
+>### 🌡️ Environment Monitoring
 - Temperature monitoring with heater/cooler control  
 - Humidity detection with automated humidifier  
 - Soil moisture sensing with automatic sprinklers  
 - CO₂ level monitoring with exhaust fan activation  
 - Fire detection with alarm + sprinkler response  
 
-### 💡 Facility Automation
+>### 💡 Facility Automation
 - Smart lighting control  
 - Smart door system with e-card authentication  
 - CCTV camera simulation  
 - Garage door automation  
 - Water level monitoring  
 
-### 📡 IoT Connectivity
+>### 📡 IoT Connectivity
 - All devices connected through Home Gateway  
 - IoT Server + DNS for device registration  
 - Web dashboard: `www.greenhouse.com`  
