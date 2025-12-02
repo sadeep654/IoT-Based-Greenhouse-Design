@@ -51,12 +51,12 @@ IoT-Greenhouse-Monitoring-System/
 ├── documentation/
 │   └── WDN-Assignment-Group22.pdf
 ├── images/
-│   ├── architecture.png
-│   ├── soil-moisture.png
-│   ├── temperature-system.png
-│   ├── lighting-system.png
-│   ├── co2-system.png
-│   └── fire-system.png
+    ├── architecture.png
+    ├── soil-moisture.png
+    ├── temperature-system.png
+    ├── lighting-system.png
+    ├── co2-system.png
+    └── fire-system.png
 ```
 >### Architecture Summary
 <p align="center">
