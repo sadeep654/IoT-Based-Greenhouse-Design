@@ -41,7 +41,11 @@ A complete IoT-based greenhouse automation system built using **Cisco Packet Tra
 
 ---
 
-## 🗂️ Project Structure
+## 🔹 Architecture
+
+>## Project Structure
+
+```bash
 IoT-Greenhouse-Monitoring-System/
 ├── greenhouse_final.pkt
 ├── documentation/
@@ -53,8 +57,11 @@ IoT-Greenhouse-Monitoring-System/
 │   ├── lighting-system.png
 │   ├── co2-system.png
 │   └── fire-system.png
-├── README.md
-└── LICENSE
+```
+>### Architecture Summary
+<p align="center">
+  <img src="img/diagram.png" width="100%" alt="water" />
+</p>
 
 ---
 
