@@ -65,34 +65,33 @@ IoT-Greenhouse-Monitoring-System/
 
 ---
 
-## 🚀 System Workflow
+## 🔹 System Workflow
 
-1. Sensors collect temperature, humidity, soil moisture, CO₂, and fire data  
-2. IoT devices send data to the IoT Server  
-3. Threshold values trigger actuators automatically  
-4. User logs in to web portal for manual control  
-5. CCTV and smart door enhance security  
-6. Solar power system supports device power  
+>1. Sensors collect temperature, humidity, soil moisture, CO₂, and fire data  
+>2. IoT devices send data to the IoT Server  
+>3. Threshold values trigger actuators automatically
+>4. User logs in to web portal for manual control  
+>5. CCTV and smart door enhance security  
+>6. Solar power system supports device power  
 
 ---
 
-## ▶️ How to Run (Cisco Packet Tracer)
+>### ▶️ How to Run (Cisco Packet Tracer)
 
 1. Open `greenhouse_final.pkt`  
 2. Click the laptop or smartphone  
 3. Open the Web Browser  
 4. Enter the URL:
-
-
 5. Login:
-- **Username:** admin  
-- **Password:** admin  
-
-Control devices or monitor sensor values in real time.
+```bash
+Username: admin  
+Password: admin  
+```
+>You can now view real-time sensor values, activate lights, open the smart door, or monitor sprinkler operations.
 
 ---
 
-## 🧰 Components Used
+## 🔹 Components Used
 
 ### Sensors  
 - Temperature sensor  
@@ -118,7 +117,7 @@ Control devices or monitor sensor values in real time.
 
 ---
 
-## 🔮 Future Improvements
+## 🔹 Future Improvements
 
 - AI-powered plant-health prediction  
 - Integration with real IoT hardware (ESP32 / Raspberry Pi)  
@@ -128,22 +127,23 @@ Control devices or monitor sensor values in real time.
 
 ---
 
-## 📜 License
+## 🔹 License
 
 This project is licensed under the **MIT License**.  
 See the `LICENSE` file for details.
 
 ---
 
-## 📘 Citation
+## 🔹 Citation
 
 If you use this work, please cite:
-
-
+```bash
+Perera, H.A.K.D., Kasthuriarachchi, S.D. (2021). IoT Smart Greenhouse Monitoring System. Available at: https://github.com/your-repo-link (Accessed: date-you-accessed).
+```
 
 ---
 
-## 👥 Authors
+## 🔹 Authors
 
 - **Kasthuriarachchi, S.D.**  
 - **Perera, H.A.K.D.**  
