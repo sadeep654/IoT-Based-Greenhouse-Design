@@ -145,6 +145,9 @@ Perera, H.A.K.D., Kasthuriarachchi, S.D. (2021). IoT Smart Greenhouse Monitoring
 
 ## 🔹 Authors
 
-- **Kasthuriarachchi, S.D.**  
-- **Perera, H.A.K.D.**  
+>- **Kasthuriarachchi, S.D.**  
+>- **Perera, H.A.K.D.**
+```bash
+Copyright (c) 2020 Sadeep Dilshan Kasthuriarachchi
+```
 
